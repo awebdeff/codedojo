@@ -1,0 +1,19 @@
+{
+  "name": "codedojo-basejs",
+  "version": "1.0.0",
+  "description": "baseJS lessons",
+  "main": "codedojo-base.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/awebdeff/codedojo.git"
+  },
+  "author": "awebdeff <awebdeff@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/awebdeff/codedojo/issues"
+  },
+  "homepage": "https://github.com/awebdeff/codedojo#readme"
+}
